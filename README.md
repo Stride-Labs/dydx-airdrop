@@ -25,7 +25,7 @@ stride1y8p7y33elud5232424znxhn7pnl2c82a8vk6kn,200.02
 ...
 ```
 
-A user's snapshot score is calculated by snapshotting the user's stDYDX balance at a random time each eligibility day, then adding up these balances across the period. 
+A user's snapshot score is calculated by looking at a user's stDYDX balance a random time each eligibility day, and weighing across the entire period. 
 
 As an example:
 ```
