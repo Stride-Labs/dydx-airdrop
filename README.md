@@ -7,7 +7,13 @@ Your balance will the sum of your stDYDX holdings across all days you held them.
 
 Questions? Read the full airdrop details [here](https://www.stride.zone/blog/airdrop-to-stdydx-holders) or contact Stride on [Twitter](https://twitter.com/stride_zone), [Discord](https://discord.com/invite/stride-zone) or [Telegram](https://t.me/stridezone_official).
 
-## How to read the data
+## How to check my eligibility
+
+1. Find your Stride address in the Keplr extension by clicking "Copy Address" ![.](guide-images/keplr.png)
+2. Click on the `2.28.2024.csv` snapshot in this Github repo.
+3. Paste your address in the `Search this file` field. You will see your score. For example, `stride19frq2l525lrvlzunn303t07ndtwdmn33tpv6na` has a score of 35.07: ![.](guide-images/score.png).
+
+## What does the data mean?
 
 The `2.28.2024.csv` snapshot contains two columns:
 - The stride address of the user who held stDYDX at any point over the eligibility period
@@ -30,3 +36,7 @@ balance on days 4+: 0
 -
 snapshot score = 6 (calculated as 2+1+4)
 ```
+
+At the end of the 120-day airdrop period, STRD will be distsributed pro-rata across users corresponding accorinding to their scores.
+
+Note: scores shown in this repo are not final and are subject to change to resolve any detected issues.
