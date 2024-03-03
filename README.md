@@ -34,7 +34,7 @@ balance on day 2: 1
 balance on days 3: 4
 balance on days 4+: 0
 -
-snapshot score = 6 (calculated as 2+1+4)
+snapshot score = 7 (calculated as 2+1+4)
 ```
 
 At the end of the 120-day airdrop period, STRD will be distsributed pro-rata across users corresponding accorinding to their scores.
